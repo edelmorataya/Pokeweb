@@ -20,7 +20,7 @@
     "animate.css": "^3.7.0",
     "@fortawesome/fontawesome-free": "5.3.1",
     "bootstrap": "^4.3.1",
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "sweetalert2": "^7.29.2"
   }
 }
